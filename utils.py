@@ -1,0 +1,1 @@
+def greet(name):\n    return f'Hello, {name}!\n'\n\ndef add_numbers(a, b):\n    return a + b\n\ndef multiply_numbers(a, b):\n    return a * b\n\ndef is_even(num):\n    return num % 2 == 0\n\ndef reverse_string(s):\n    return s[::-1]
