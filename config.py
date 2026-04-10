@@ -1,0 +1,5 @@
+APP_NAME = 'MyApp'
+DEBUG_MODE = True
+DATABASE_URL = 'sqlite:///myapp.db'
+SERVER_HOST = '127.0.0.1'
+SERVER_PORT = 5000
